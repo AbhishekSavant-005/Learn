@@ -258,10 +258,13 @@ print('min:',min,'max:',max,'average:'avg)'''
 # print(f'avg is:{avg}')
 
 # to read input from user input and printing sub array of odd elements in the list
-n=int(input())
-l=[]
-for i in range(n):
-  l.append(int(input()))
-for digit in l:
-  if digit % 2 !=0:
-    
+# n=int(input())
+# l=[]
+# sl=[]
+# for i in range(n):
+#   l.append(int(input()))
+# print('list is',l)
+# for digit in l:
+#   if digit % 2 !=0:
+#     sl.append(digit)
+# print('sub array is',sl)
